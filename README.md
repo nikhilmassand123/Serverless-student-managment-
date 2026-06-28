@@ -1,0 +1,1 @@
+The project follows a serverless architecture. Backend functionalities such as authentication and database operations are handled by Firebase services. Therefore, no separate backend server was required.
